@@ -3,6 +3,8 @@ tags:
   - theory
   - theology
   - christianity
+source: Defender
+proximity: "3"
 ---
 https://x.com/sunriseoath
 
